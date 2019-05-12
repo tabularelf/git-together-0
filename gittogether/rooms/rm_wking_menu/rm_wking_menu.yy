@@ -2,7 +2,7 @@
 {
     "name": "rm_wking_menu",
     "id": "4339ebef-a3cd-42c2-aa3d-358e59245eb5",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
@@ -87,12 +87,12 @@
     },
     "roomSettings":     {
         "id": "a847af7f-26ca-4270-bdb1-eb54bcde96b7",
-        "Height": 768,
+        "Height": 180,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 1024
+        "Width": 320
     },
     "mvc": "1.0",
     "views": [

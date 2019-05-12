@@ -1,8 +1,8 @@
 {
-    "id": "8362a590-ec55-4fbb-ba41-619f7f4ea975",
+    "id": "62367d75-a7b6-43ae-a6e7-0fd471b49c60",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_wk_tree",
+    "name": "obj_wk_Viking",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "c6eb15aa-e251-44f6-a87c-2d1eb835bb88",
     "visible": true
 }
