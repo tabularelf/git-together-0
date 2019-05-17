@@ -9,7 +9,7 @@ spawnY = room_height-48;
 instance_create_depth(0,0,4,obj_CM_UI);
 with(instance_create_depth(0,0,-34,obj_CM_UI)) uiType = 1;
 var _maxSpawn = sprite_get_number(spr_CM_Prize);
-for(var i = 0; i < prizeNum; i++;) {
+for(var i = 0; i < _maxSpawn; i++;) {
 	var _x = irandom_range(spawnMinX,spawnMaxX);
 	with(instance_create_layer(_x,spawnY,"Instances",obj_CM_Prize)) {
 		image_index = i mod _maxSpawn;
