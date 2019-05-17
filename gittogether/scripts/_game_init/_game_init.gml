@@ -27,3 +27,5 @@ arcade_game_add("Wking", spr_arcade_wking, rm_wking_menu);
 arcade_game_add("Yosi", spr_arcade_machine_yosi, rm_yosi);
 
 arcade_game_add("Adventure", spr_arcade_pong, rm_ad_start);
+
+arcade_game_add("Claw Machine", spr_arcade_clawmachine, rm_CM_Main);

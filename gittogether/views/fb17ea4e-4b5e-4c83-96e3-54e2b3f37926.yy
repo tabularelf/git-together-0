@@ -10,7 +10,8 @@
         "5a0e0b63-510e-4785-9458-a3cc3f9932c6",
         "cb1f95b2-20c5-4736-bd59-6a9677ebb3a9",
         "0f5e363a-8c54-40a3-b7a4-e31a8d78ea17",
-        "37b2843d-c097-4d91-b09a-e55a5c1c8da9"
+        "37b2843d-c097-4d91-b09a-e55a5c1c8da9",
+        "2f145d25-d738-4c4e-a97e-b4c729ff4998"
     ],
     "filterType": "GMSprite",
     "folderName": "__ Minigame Sprites",
